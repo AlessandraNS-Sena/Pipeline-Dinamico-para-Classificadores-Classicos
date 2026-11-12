@@ -9,7 +9,8 @@
 &emsp; Certifique-se de ter o **Python 3.13+** instalado. Clone o repositório e instale as dependências:
 
 ```
-git clone https://github.com/seu-usuario/meu-metodo.git
+git clone https://github.com/AlessandraNS-Sena/Pipeline-Dinamico-para-Classificadores-Classicos.git
+cd Pipeline-Dinamico-para-Classificadores-Classicos
 pip install -r requirements.txt
 ```
 
@@ -86,4 +87,4 @@ python app.py
 
 Autora: Alessandra Nascimento Santos Sena
 
-Especialização: Sistemas de Informação (Inteli)
+Curso: Sistemas de Informação (Inteli)
